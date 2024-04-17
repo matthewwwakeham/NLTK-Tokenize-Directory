@@ -6,7 +6,7 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
 # Directory where text documents are stored
-directory = "C:\\Users\Matthew Wakeham.LAW-LP-LC1LS04M\\Desktop\\TaoTeChing"
+directory = ""
 
 # Subdirectory to store tokenized files
 output_directory = os.path.join(directory, "tokenized_files")
